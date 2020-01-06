@@ -6,6 +6,7 @@ using namespace std;
 int Size;
 char InputBuffer[101];
 char OutputBuffer[101];
+char XY;
 
 int main()
 {
